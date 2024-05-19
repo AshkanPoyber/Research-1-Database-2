@@ -51,3 +51,5 @@
 ⚠ **NoSQL** : بسیاری از پایگاه داده های NoSQL رایگان یا هزینه کمتری دارند به خصوص در پروژه های منبع باز 
     
 </div>
+
+<h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> نتیجه گیری</h3>
