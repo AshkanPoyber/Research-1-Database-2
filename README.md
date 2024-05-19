@@ -6,7 +6,7 @@
 
 
 <div dir="rtl">
-<h3 dir="rtl">مشخصات دانشجو<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /></h3>
+<h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> مشخصات دانشجو</h3>
     
 💢 نام و نام خانوادگی دانشجو : محمدرضا دلیلی
 <br>
