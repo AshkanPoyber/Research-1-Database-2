@@ -3,6 +3,8 @@
     𝑹𝒆𝒔𝒆𝒂𝒓𝒄𝒉 𝟏 ~ 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝟐
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h1>
+
+<h1 dir="rtl">نام و نام خانوادگی: حسن احمدی</h1>
 <h2 dir="rtl">موضوع: تفاوت sql</h2>
 
 <div dir="rtl">
