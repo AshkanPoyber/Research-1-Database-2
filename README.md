@@ -24,6 +24,6 @@
 
 <div dir="rtl">
 
- تستستستتست( sql و  nosql )
+( sql و  nosql ) تستستستتست
 
 </div>
