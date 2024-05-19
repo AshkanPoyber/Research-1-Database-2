@@ -52,4 +52,9 @@
     
 </div>
 
+<div dir="rtl">
 <h3 dir="rtl"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> نتیجه گیری</h3>
+
+در نتیجه، SQL برای داده‌های با ساختار ثابت و تراکنش‌های پیچیده مناسب است، در حالی که NoSQL برای داده‌های بدون ساختار و مقیاس‌پذیری بالا ایده‌آل است. انتخاب بین SQL و NoSQL باید بر اساس نیازهای خاص پروژه و نوع داده‌ها انجام شود.
+      
+</div>
