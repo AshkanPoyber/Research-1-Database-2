@@ -6,15 +6,10 @@
 
 
 <div dir="rtl">
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="40" height="40" /> ToDo List
-      <br>
+<h1 dir="rtl">مشخصات دانشجو : محمدرضا دلیلی</h1>
+    
 💢 Create Icon
-<br>
-💢 Download Some Images For Shapes And Options Section
-<br>
-💢 Coding And Enjoy It :)
-<br>
-💢 And Absolutely So Much More !
+
 
 </div>
 
