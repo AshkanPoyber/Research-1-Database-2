@@ -4,7 +4,8 @@
       <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h1>
 
-<h1 dir="rtl">نام و نام خانوادگی: حسن احمدی</h1>
+<h1 dir="rtl">نام و نام خانوادگی دانشجو : محمدرضا دلیلی</h1>
+شماره دانشجویی : 02221124705023
 <h2 dir="rtl">موضوع: تفاوت sql</h2>
 
 <div dir="rtl">
